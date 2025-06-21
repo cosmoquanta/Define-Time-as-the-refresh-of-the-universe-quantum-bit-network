@@ -1,8 +1,10 @@
 # Define-Time-as-the-refresh-of-the-universe-quantum-bit-network
 
+## What Is Time? Defining Time's concept and meaning in the perspective of quantized cosmo-network.
+
 Time is the refresh of the universe's quantum bit network, where each refresh corresponds to a moment.
 
-What Is Time? Defining Time's concept and meaning in the perspective of quantized cosmo-network.
+
 
 Imagine our universe as a three-dimensional "screen," where each pixel is a fundamental quantum of space—a Space elementary-elastic-energy Quantum (SEQ). Each moment in time corresponds to a refresh of this cosmic screen, with energy states reconfigured according to immutable physical laws. This framework redefines time not as an independent dimension but as a counting process of transformations in the spacetime network, governed by entropy and quantum constraints.
 
