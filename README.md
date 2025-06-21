@@ -63,3 +63,7 @@ mᵢ → mᵢ − ħ; mⱼ → mⱼ + ħ
 This process ensures that entropy increases monotonically, aligning with the second law of thermodynamics. The discrete nature of energy exchange (ħ-quantization) imposes a fundamental resolution limit on the system’s energy redistribution dynamics.
 
 The multiplicative entropy framework inherently links time’s arrow to irreversible state transitions, where each refresh corresponds to a stepwise entropy increase. Non-uniform energy distributions drive selective transformations, with higher-entropy configurations progressively dominating the network’s evolution.
+
+https://cosmoquanta.com
+
+https://doi.org/10.5281/zenodo.14788393
